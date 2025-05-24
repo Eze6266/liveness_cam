@@ -1,6 +1,6 @@
 name: liveness_cam
 description: Liveness camera for detecting fraud or detecting real person selfie
-version: 0.0.7
+version: 0.0.8
 homepage: https://kakzaki.dev
 
 environment:
@@ -12,7 +12,6 @@ dependencies:
     sdk: flutter
   camera: ^0.10.0+1
   google_mlkit_face_detection: ^0.4.0
-
 
 dev_dependencies:
   flutter_test:
